@@ -1,4 +1,4 @@
-# Listita Mundial 2026
+# World Cup Fantasy Game  2026
 
 > Fantasy football app built for the FIFA World Cup 2026. Three participants draft national team players, score points from live match events, and track a live ranking throughout the tournament. Live at [listita-mundial.martinterzano.com](https://listita-mundial.martinterzano.com).
 
